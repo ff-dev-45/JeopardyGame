@@ -1,4 +1,4 @@
-# SOFTENG 206 Assignment 2
+# Jeopardy Game
 
 Hello!
 To run this jar
@@ -18,6 +18,6 @@ as the Jeopardy.jar and Jeopardy.sh
 	
 5.Questions/categories should be in the original format that was given in the first assignment, and the program will use the files contained within ./categories/ to create its own set that it can read/edit for the program
 
--Flynn Fromont
-ffr805
+-ff-dev-45
+
 
