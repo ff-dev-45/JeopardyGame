@@ -4,6 +4,9 @@ Hello!
 This game was made to run in a linux ubuntu system and uses process builder to run Bash commands for 'festival' (a text-to-speech library in the ubuntu system used).
 The game also requires javaFX 11.0.2 and requires the pathway in the Jeopardy.sh file to locate the jar and use it.
 
+festival found here (http://www.cstr.ed.ac.uk/projects/festival/manual/festival_6.html)
+JavaFX found here (https://gluonhq.com/products/javafx/)
+
 To run this jar
 1. Change the pathway for the Jeopardy.sh script file to where JavaFx 11.0.2 jar is located
 
